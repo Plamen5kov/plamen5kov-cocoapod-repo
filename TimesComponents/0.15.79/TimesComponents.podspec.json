@@ -25,46 +25,46 @@
   },
   "dependencies": {
     "React/Core": [
-      "0.60.4"
+      "0.61.1"
     ],
     "React/CxxBridge": [
-      "0.60.4"
+      "0.61.1"
     ],
     "React/RCTAnimation": [
-      "0.60.4"
+      "0.61.1"
     ],
     "React/RCTCameraRoll": [
-      "0.60.4"
+      "0.61.1"
     ],
     "React/RCTImage": [
-      "0.60.4"
+      "0.61.1"
     ],
     "React/RCTLinkingIOS": [
-      "0.60.4"
+      "0.61.1"
     ],
     "React/RCTNetwork": [
-      "0.60.4"
+      "0.61.1"
     ],
     "React/RCTText": [
-      "0.60.4"
+      "0.61.1"
     ],
     "React/RCTGeolocation": [
-      "0.60.4"
+      "0.61.1"
     ],
     "React/RCTActionSheet": [
-      "0.60.4"
+      "0.61.1"
     ],
     "React/RCTWebSocket": [
-      "0.60.4"
+      "0.61.1"
     ],
     "React/DevSupport": [
-      "0.60.4"
+      "0.61.1"
     ],
     "React/ART": [
-      "0.60.4"
+      "0.61.1"
     ],
-    "yoga": [
-      "0.60.4.React"
+    "Yoga": [
+      "1.14.0"
     ],
     "DoubleConversion": [
       "1.1.6"
