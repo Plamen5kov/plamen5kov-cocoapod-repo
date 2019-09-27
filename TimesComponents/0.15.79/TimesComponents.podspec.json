@@ -57,14 +57,14 @@
     "React/RCTWebSocket": [
       "0.60.4"
     ],
-    "React/DevSupport": [
+    "React-DevSupport": [
       "0.60.4"
     ],
     "React/ART": [
       "0.60.4"
     ],
-    "Yoga": [
-      "1.14.0"
+    "yoga": [
+      "0.60.4.React"
     ],
     "DoubleConversion": [
       "1.1.6"
