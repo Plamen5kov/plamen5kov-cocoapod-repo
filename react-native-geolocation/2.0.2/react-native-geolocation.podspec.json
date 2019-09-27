@@ -10,7 +10,7 @@
   },
   "source": {
     "git": "https://github.com/react-native-community/react-native-geolocation.git",
-    "tag": "2.0.2"
+    "tag": "v2.0.2"
   },
   "source_files": "ios/**/*.{h,m}",
   "dependencies": {
