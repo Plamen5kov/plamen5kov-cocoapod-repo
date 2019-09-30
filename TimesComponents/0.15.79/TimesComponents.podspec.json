@@ -78,6 +78,12 @@
     "React-jsi": [
       "0.60.4"
     ],
+    "React-jsiexecutor": [
+      "0.60.4"
+    ],
+    "React-jsinspector": [
+      "0.60.4"
+    ],
     "yoga": [
       "0.60.4.React"
     ],
@@ -89,9 +95,6 @@
     ],
     "Folly": [
       "2018.10.22.00"
-    ],
-    "react-native-webview": [
-      "7.0.5"
     ]
   },
   "swift_version": "4.2"
