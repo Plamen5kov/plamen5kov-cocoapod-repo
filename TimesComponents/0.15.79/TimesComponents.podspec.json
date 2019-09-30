@@ -24,9 +24,6 @@
     ]
   },
   "dependencies": {
-    "React-Core": [
-      "0.60.4"
-    ],
     "React-DevSupport": [
       "0.60.4"
     ],
