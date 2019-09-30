@@ -24,12 +24,6 @@
     ]
   },
   "dependencies": {
-    "React": [
-      "0.60.4"
-    ],
-    "React-Core": [
-      "0.60.4"
-    ],
     "React-DevSupport": [
       "0.60.4"
     ],
@@ -67,6 +61,9 @@
       "0.60.4"
     ],
     "React-cxxreact": [
+      "0.60.4"
+    ],
+    "React-jsi": [
       "0.60.4"
     ],
     "react-native-geolocation": [
