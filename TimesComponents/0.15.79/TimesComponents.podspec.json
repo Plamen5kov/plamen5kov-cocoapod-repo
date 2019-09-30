@@ -75,15 +75,6 @@
     "React-cxxreact": [
       "0.60.4"
     ],
-    "React-jsi": [
-      "0.60.4"
-    ],
-    "React-jsiexecutor": [
-      "0.60.4"
-    ],
-    "React-jsinspector": [
-      "0.60.4"
-    ],
     "yoga": [
       "0.60.4.React"
     ],
