@@ -24,15 +24,6 @@
     ]
   },
   "dependencies": {
-    "React-Core": [
-      "0.60.4"
-    ],
-    "react-native-geolocation": [
-      "2.0.2"
-    ],
-    "yoga": [
-      "0.60.4.React"
-    ],
     "DoubleConversion": [
       "1.1.6"
     ],
