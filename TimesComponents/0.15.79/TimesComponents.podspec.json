@@ -79,7 +79,7 @@
       "0.60.4"
     ],
     "react-native-geolocation": [
-      "2.0.2"
+      "0.60.4"
     ],
     "React-RCTCameraRoll": [
       "0.60.4"
@@ -98,9 +98,6 @@
     ],
     "Folly": [
       "2018.10.22.00"
-    ],
-    "react-native-webview": [
-      "7.0.5"
     ]
   },
   "swift_version": "4.2"
