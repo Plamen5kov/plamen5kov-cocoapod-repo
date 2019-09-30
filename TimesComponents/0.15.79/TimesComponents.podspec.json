@@ -60,6 +60,24 @@
     "React-ART": [
       "0.60.4"
     ],
+    "React-fishhook": [
+      "0.60.4"
+    ],
+    "React-jsinspector": [
+      "0.60.4"
+    ],
+    "React-jsi": [
+      "0.60.4"
+    ],
+    "React-RCTBlob": [
+      "0.60.4"
+    ],
+    "React-RCTSettings": [
+      "0.60.4"
+    ],
+    "React-RCTVibration": [
+      "0.60.4"
+    ],
     "yoga": [
       "0.60.4.React"
     ],
