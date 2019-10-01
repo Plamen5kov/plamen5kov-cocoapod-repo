@@ -24,80 +24,95 @@
     ]
   },
   "dependencies": {
-    "React": [
-      "0.60.4"
-    ],
     "React-Core": [
-      "0.60.4"
-    ],
-    "React-DevSupport": [
-      "0.60.4"
-    ],
-    "React-fishhook": [
-      "0.60.4"
-    ],
-    "React-RCTActionSheet": [
-      "0.60.4"
+      "0.61.1"
     ],
     "React-RCTAnimation": [
-      "0.60.4"
-    ],
-    "React-RCTBlob": [
-      "0.60.4"
+      "0.61.1"
     ],
     "React-RCTImage": [
-      "0.60.4"
+      "0.61.1"
     ],
     "React-RCTLinking": [
-      "0.60.4"
+      "0.61.1"
     ],
     "React-RCTNetwork": [
-      "0.60.4"
-    ],
-    "React-RCTSettings": [
-      "0.60.4"
+      "0.61.1"
     ],
     "React-RCTText": [
-      "0.60.4"
+      "0.61.1"
     ],
-    "React-RCTVibration": [
-      "0.60.4"
+    "React-RCTActionSheet": [
+      "0.61.1"
     ],
-    "React-RCTWebSocket": [
-      "0.60.4"
+    "React-Core/RCTWebSocket": [
+      "0.61.1"
+    ],
+    "React-Core/DevSupport": [
+      "0.61.1"
     ],
     "React-cxxreact": [
-      "0.60.4"
+      "0.61.1"
     ],
     "React-jsi": [
-      "0.60.4"
+      "0.61.1"
     ],
     "React-jsiexecutor": [
-      "0.60.4"
+      "0.61.1"
     ],
     "React-jsinspector": [
-      "0.60.4"
+      "0.61.1"
+    ],
+    "React-RCTSettings": [
+      "0.61.1"
+    ],
+    "React-RCTVibration": [
+      "0.61.1"
+    ],
+    "FBLazyVector": [
+      "0.61.1"
+    ],
+    "FBReactNativeSpec": [
+      "0.61.1"
+    ],
+    "RCTRequired": [
+      "0.61.1"
+    ],
+    "RCTTypeSafety": [
+      "0.61.1"
+    ],
+    "React": [
+      "0.61.1"
+    ],
+    "React-CoreModules": [
+      "0.61.1"
+    ],
+    "React-RCTBlob": [
+      "0.61.1"
+    ],
+    "ReactCommon/jscallinvoker": [
+      "0.61.1"
+    ],
+    "ReactCommon/turbomodule/core": [
+      "0.61.1"
     ],
     "react-native-geolocation": [
-      "0.60.4"
+      "2.0.2"
     ],
-    "React-RCTCameraRoll": [
-      "0.60.4"
-    ],
-    "React-ART": [
-      "0.60.4"
-    ],
-    "yoga": [
-      "0.60.4.React"
+    "Yoga": [
+      "1.14.0"
     ],
     "DoubleConversion": [
       "1.1.6"
     ],
+    "Folly": [
+      "2018.10.22.00"
+    ],
     "glog": [
       "0.3.5"
     ],
-    "Folly": [
-      "2018.10.22.00"
+    "react-native-webview": [
+      "7.0.5"
     ]
   },
   "swift_version": "4.2"
