@@ -24,51 +24,6 @@
     ]
   },
   "dependencies": {
-    "React-Core": [
-      "0.61.1"
-    ],
-    "React-RCTAnimation": [
-      "0.61.1"
-    ],
-    "React-RCTImage": [
-      "0.61.1"
-    ],
-    "React-RCTLinking": [
-      "0.61.1"
-    ],
-    "React-RCTNetwork": [
-      "0.61.1"
-    ],
-    "React-RCTText": [
-      "0.61.1"
-    ],
-    "React-RCTActionSheet": [
-      "0.61.1"
-    ],
-    "React-Core/RCTWebSocket": [
-      "0.61.1"
-    ],
-    "React-Core/DevSupport": [
-      "0.61.1"
-    ],
-    "React-cxxreact": [
-      "0.61.1"
-    ],
-    "React-jsi": [
-      "0.61.1"
-    ],
-    "React-jsiexecutor": [
-      "0.61.1"
-    ],
-    "React-jsinspector": [
-      "0.61.1"
-    ],
-    "React-RCTSettings": [
-      "0.61.1"
-    ],
-    "React-RCTVibration": [
-      "0.61.1"
-    ],
     "FBLazyVector": [
       "0.61.1"
     ],
@@ -84,16 +39,64 @@
     "React": [
       "0.61.1"
     ],
+    "React-Core": [
+      "0.61.1"
+    ],
     "React-CoreModules": [
       "0.61.1"
     ],
+    "React-Core/DevSupport": [
+      "0.61.1"
+    ],
+    "React-RCTActionSheet": [
+      "0.61.1"
+    ],
+    "React-RCTAnimation": [
+      "0.61.1"
+    ],
     "React-RCTBlob": [
+      "0.61.1"
+    ],
+    "React-RCTImage": [
+      "0.61.1"
+    ],
+    "React-RCTLinking": [
+      "0.61.1"
+    ],
+    "React-RCTNetwork": [
+      "0.61.1"
+    ],
+    "React-RCTSettings": [
+      "0.61.1"
+    ],
+    "React-RCTText": [
+      "0.61.1"
+    ],
+    "React-RCTVibration": [
+      "0.61.1"
+    ],
+    "React-Core/RCTWebSocket": [
+      "0.61.1"
+    ],
+    "React-cxxreact": [
+      "0.61.1"
+    ],
+    "React-jsi": [
+      "0.61.1"
+    ],
+    "React-jsiexecutor": [
+      "0.61.1"
+    ],
+    "React-jsinspector": [
       "0.61.1"
     ],
     "ReactCommon/jscallinvoker": [
       "0.61.1"
     ],
     "ReactCommon/turbomodule/core": [
+      "0.61.1"
+    ],
+    "React-ART": [
       "0.61.1"
     ],
     "react-native-geolocation": [
