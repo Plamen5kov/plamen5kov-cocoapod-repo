@@ -90,6 +90,9 @@
     "React-jsinspector": [
       "0.61.1"
     ],
+    "React-Fabric": [
+      "0.61.1"
+    ],
     "ReactCommon/jscallinvoker": [
       "0.61.1"
     ],
