@@ -25,7 +25,7 @@ TODO: Add long description of the pod here.
   # s.screenshots     = 'www.example.com/screenshots_1', 'www.example.com/screenshots_2'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
   s.author           = { 'plamen5kov' => 'plamen.krasimirov.petkov@gmail.com' }
-  s.source           = { :git => 'https://github.com/Plamen5kov/plamen5kov-cocoapod-repo.git', :tag => s.version.to_s }
+  s.source           = { :git => 'https://github.com/Plamen5kov/plamen5kov-cocoapod-assets', :tag => s.version.to_s }
   # s.social_media_url = 'https://twitter.com/<TWITTER_USERNAME>'
 
   s.ios.deployment_target = '8.0'
