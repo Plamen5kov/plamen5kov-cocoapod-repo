@@ -99,6 +99,9 @@
     "React-ART": [
       "0.61.1"
     ],
+    "React-RCTFabric": [
+      "0.61.1"
+    ],
     "react-native-geolocation": [
       "2.0.2"
     ],
