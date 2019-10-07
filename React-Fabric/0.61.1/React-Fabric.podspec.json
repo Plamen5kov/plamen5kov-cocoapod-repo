@@ -13,7 +13,6 @@
     "git": "https://github.com/facebook/react-native.git",
     "tag": "v0.61.1"
   },
-  "prepare_command": "#!/bin/bash\n# Copyright (c) Facebook, Inc. and its affiliates.\n#\n# This source code is licensed under the MIT license found in the\n# LICENSE file in the root directory of this source tree.\n#\n# This script collects the \"core\" component schemas used by fabric\n# then uses react-native-codegen to generate the component headers\n# to a location that the podspecs expect.\n\n# shellcheck disable=SC2038\n\nfind \"$PWD/../Libraries\" -name \"*NativeComponent.js\" -print | xargs yarn flow-node packages/react-native-codegen/src/cli/combine/combine-js-to-schema-cli.js schema-rncore.json\nyarn flow-node packages/react-native-codegen/buck_tests/generate-tests.js schema-rncore.json rncore ReactCommon/fabric/components/rncore",
   "source_files": "dummyFile.cpp",
   "libraries": "stdc++",
   "pod_target_xcconfig": {
