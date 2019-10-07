@@ -1,0 +1,119 @@
+{
+  "name": "TimesComponents",
+  "version": "0.15.79",
+  "summary": "Times iOS React components",
+  "description": "All the things for Times iOS React components including dependencies",
+  "homepage": "https://www.news.co.uk",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": "News UK",
+  "platforms": {
+    "ios": "9.0"
+  },
+  "swift_versions": "4.2",
+  "source": {
+    "git": "https://github.com/newsuk/times-components-ios-artifacts",
+    "tag": "0.15.79"
+  },
+  "resource_bundles": {
+    "TimesComponents": [
+      "assets/js/index.ios.bundle",
+      "assets/res/*"
+    ]
+  },
+  "dependencies": {
+    "FBLazyVector": [
+      "0.61.1"
+    ],
+    "FBReactNativeSpec": [
+      "0.61.1"
+    ],
+    "RCTRequired": [
+      "0.61.1"
+    ],
+    "RCTTypeSafety": [
+      "0.61.1"
+    ],
+    "React": [
+      "0.61.1"
+    ],
+    "React-Core": [
+      "0.61.1"
+    ],
+    "React-CoreModules": [
+      "0.61.1"
+    ],
+    "React-Core/DevSupport": [
+      "0.61.1"
+    ],
+    "React-RCTActionSheet": [
+      "0.61.1"
+    ],
+    "React-RCTAnimation": [
+      "0.61.1"
+    ],
+    "React-RCTBlob": [
+      "0.61.1"
+    ],
+    "React-RCTImage": [
+      "0.61.1"
+    ],
+    "React-RCTLinking": [
+      "0.61.1"
+    ],
+    "React-RCTNetwork": [
+      "0.61.1"
+    ],
+    "React-RCTSettings": [
+      "0.61.1"
+    ],
+    "React-RCTText": [
+      "0.61.1"
+    ],
+    "React-RCTVibration": [
+      "0.61.1"
+    ],
+    "React-Core/RCTWebSocket": [
+      "0.61.1"
+    ],
+    "React-ART": [
+      "0.61.1"
+    ],
+    "React-cxxreact": [
+      "0.61.1"
+    ],
+    "React-jsi": [
+      "0.61.1"
+    ],
+    "React-jsiexecutor": [
+      "0.61.1"
+    ],
+    "React-jsinspector": [
+      "0.61.1"
+    ],
+    "ReactCommon/jscallinvoker": [
+      "0.61.1"
+    ],
+    "ReactCommon/turbomodule/core": [
+      "0.61.1"
+    ],
+    "react-native-webview": [
+      "7.0.5"
+    ],
+    "Yoga": [
+      "1.14.0"
+    ],
+    "DoubleConversion": [
+      "1.1.6"
+    ],
+    "Folly": [
+      "2018.10.22.00"
+    ],
+    "glog": [
+      "0.3.5"
+    ]
+  },
+  "swift_version": "4.2"
+}
