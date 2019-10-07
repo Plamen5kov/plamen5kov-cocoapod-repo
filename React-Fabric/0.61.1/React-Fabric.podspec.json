@@ -206,7 +206,7 @@
               "2018.10.22.00"
             ],
             "yoga": [
-              "0.61.1.React"
+              "1.14.0"
             ]
           },
           "compiler_flags": "-DFOLLY_NO_CONFIG -DFOLLY_MOBILE=1 -DFOLLY_USE_LIBCPP=1 -Wno-comma -Wno-shorten-64-to-32",
