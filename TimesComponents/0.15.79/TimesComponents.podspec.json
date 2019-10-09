@@ -84,7 +84,7 @@
     "React-cxxreact": [
       "0.61.1"
     ],
-    "React-jsi": [
+    "React-jsi/Fabric": [
       "0.61.1"
     ],
     "React-jsiexecutor": [
